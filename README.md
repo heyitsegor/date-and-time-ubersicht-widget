@@ -2,4 +2,4 @@
 This is my custom widget for Übersicht that shows real-time day of the week, date and time 
 
 # Widget Showcase
-![Widget on desktop](./Screenshot\ 2023-05-06\ at\ 5.24.46\ PM.png)
+![Widget on desktop](https://github.com/heyitsegor/date-and-time-ubersicht-widget/blob/main/Screenshot%202023-05-06%20at%205.24.46%20PM.png?raw=true)
